@@ -22,7 +22,7 @@
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "263776388689"
+      "value": "212728254498"
     },
     "SESSION_ID": {
       "description": "Put your session-id here. Must Start with 'starcore~'",
